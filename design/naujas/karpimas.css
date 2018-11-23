@@ -1,0 +1,113 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {
+    width: 760px;
+    margin: auto;
+}
+
+.main-menu {
+    height: 90px;
+    background-color: #0f0f0f;
+}
+
+.logo {
+    height: 120px;
+    background-color: #3e3e3e;
+}
+
+.gallery {
+    background-color: #f4f4f4;
+    height: 256px;
+}
+
+.main-menu ul {
+    float: right;
+}
+
+.main-menu ul li {
+    display: inline-block;
+    font-size: 20px;
+    font-family: Tahoma;
+    color: grey;
+    padding-right: 30px;
+    margin-top: 30px;
+
+}
+
+.logo .image {
+    background-image: url("https://github.com/RIAwolf/SimplePage/blob/master/img/generic-logo.png?raw=true");
+    display: inline-block;
+    height: 40px;
+    width: 200px;
+    margin-top: 30px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.tekstas {
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 10px;
+    font-size: 34px;
+    font-family: Tahoma;
+    color: white;
+    float: right;
+    margin-right: 80px;
+    line-height: 30px;
+    border-left: 1px solid gray;
+    padding-left: 40px;
+    margin-top: 10px;
+
+}
+
+.tekstas2 {
+    padding: 40px;
+    float: left;
+}
+
+.tekstas2 h1 {
+    font-family: Tahoma;
+    font-size: 20px;
+    font-weight: 100;
+
+}
+.box-container {
+    font-size: 10px;
+    color: white;
+    margin-top: 10px;
+}
+
+.box-container .box {
+    display: inline-block;
+    padding-right:px;
+    padding-top:px;
+    border: 1px solid grey;
+    background-color: white;
+    border-radius: 5px ;
+    margin-right:px ;
+
+}
+.fa-chevron-circle-left{
+    float: left;
+    margin-left: -20px;
+    font-size: 30px;
+    margin-top: 20px;
+}
+.fa-chevron-circle-right {
+    float: right;
+    margin-right: -20px;
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
