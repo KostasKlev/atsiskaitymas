@@ -1,0 +1,187 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: Roboto;
+}
+
+html {
+    background-color: #eeeeee;
+}
+
+.container {
+    width: 720px;
+    margin: auto;
+}
+
+.logo-container {
+    height: 70px;
+    background-color: #ffffff;
+
+}
+
+.logo-container .logo {
+    background-image: url("https://github.com/RIAwolf/SimplePage/blob/master/img/generic-logo.png?raw=true");
+    width: 120px;
+    height: 40px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    float: left;
+    background-size: contain;
+    margin-top: 25px;
+
+}
+
+.main-menu {
+    height: 50px;
+    background-color: #152733;
+}
+
+.main-menu ul {
+    float: left;
+}
+
+.main-menu ul li {
+    display: inline-block;
+    font-family: Tahoma;
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #eff4f7;
+    margin-left: 30px;
+    margin-top: 14px;
+
+}
+
+.main-menu i {
+    float: right;
+}
+
+i {
+    color: #eff4f7;
+    margin-top: 14px;
+    margin-right: 15px;
+}
+
+.header-container {
+    margin-top: 10px;
+    height: 300px;
+    background-color: #9fbc2e;
+
+}
+
+.header-image {
+    font-size: 40px;
+    padding: 75px;
+    margin-left: 170px;
+    color: white;
+    font-family: "Adobe Gurmukhi";
+}
+
+.header-galerry-container {
+    margin-top: 10px;
+
+}
+
+.header-galerry-container .galery-box {
+    width: 230px;
+    height: 160px;
+    background-color: #ffffff;
+    display: inline-block;
+    padding-left: 7px;
+}
+
+.galery-box p {
+    font-size: 8px;
+    line-height: 20px;
+    font-family: Tahoma;
+}
+
+.galery-box h1 {
+    font-size: 26px;
+    font-family: Tahoma;
+    font-weight: 100;
+}
+
+.motinins-container {
+    height: 270px;
+    background-color: white;
+    margin-top: 10px;
+}
+
+.content-container {
+    width: 480px;
+    display: inline-block;
+}
+
+.content-box h1 {
+    font-size: 25px;
+    font-family: Tahoma;
+
+}
+
+.content-box p {
+    font-size: 18px;
+    font-family: Tahoma;
+    margin-bottom: 10px;
+}
+
+.motinins-container .navigation-conteinar {
+    float: right;
+    margin-bottom: 80px;
+}
+
+.navigation-conteinar .navigation-menu {
+    width: 220px;
+    height: 200px;
+    background-color: grey;
+}
+
+.navigation-conteinar h1 {
+    font-family: Tahoma;
+    font-weight: 100;
+}
+
+.navigation-menu ul li {
+    display: block;
+    line-height: 50px;
+    font-family: Tahoma;
+    margin-left: 10px;
+
+}
+
+.gallery h1 {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 30px
+}
+
+.gallery .gallery-galerija {
+
+}
+
+.gallery-galerija .box-foto {
+    width: 170px;
+    height: 100px;
+    background-color: red;
+    display: inline-block;
+}
+
+.footage-container {
+    height: 50px;
+    background-color: white;
+    margin-top: 20px;
+
+}
+.footage-container p{
+
+    float: left;
+    margin-top: 10px;
+
+}
+.footage-container p.right {
+    color: #9fbc2e;
+    line-height: 10px;
+    float: right;
+    margin-top: 14px;
+
+}
